@@ -7,8 +7,10 @@ to switch the mode just press
  or 
 * `Alt + C`
 `
-![Simple mode](./screenshots/calculator1.png)
-![Scientific mode](./screenshots/calculator1.png)
+### Simple mode
+![](./screenshots/calculator1.png)
+### Scientific mode
+![](./screenshots/calculator2.png)
 ## Running
 install all the dependencies
 * `npm install`
