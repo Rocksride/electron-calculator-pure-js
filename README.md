@@ -10,7 +10,5 @@ to switch the mode just press
 ### Scientific mode
 ![](./screenshots/calculator2.png)
 ## Running
-- install all the dependencies
-* `npm install`
-- run calculator
-* `npm start`
+- install all the dependencies * `npm install`
+- run calculator * `npm start`
